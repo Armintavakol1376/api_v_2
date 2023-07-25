@@ -9,3 +9,7 @@ class Products(models.Model):
 
     def __str__(self):
         return self.name
+
+def function_name(arguments):
+
+    pass
