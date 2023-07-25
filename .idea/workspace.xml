@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eef8038-6e83-4428-abe4-29f63a514ced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apis/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apis/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apis/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apis/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apis/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apis/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apis/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apis/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/api_v_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api_v_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_v_2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_v_2/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_v_2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_v_2/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="4eef8038-6e83-4428-abe4-29f63a514ced" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,6 +127,7 @@
       <workItem from="1688103100439" duration="14374000" />
       <workItem from="1688366989858" duration="5872000" />
       <workItem from="1689593916465" duration="11000" />
+      <workItem from="1690289840801" duration="382000" />
     </task>
     <servers />
   </component>
